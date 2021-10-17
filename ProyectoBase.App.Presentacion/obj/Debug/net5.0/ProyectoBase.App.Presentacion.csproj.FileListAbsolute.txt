@@ -1,0 +1,247 @@
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\appsettings.Development.json
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\appsettings.json
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Presentacion.exe
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Presentacion.deps.json
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Presentacion.runtimeconfig.json
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Presentacion.runtimeconfig.dev.json
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Presentacion.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ref\ProyectoBase.App.Presentacion.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Presentacion.pdb
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Presentacion.Views.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Presentacion.Views.pdb
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.csproj.AssemblyReference.cache
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.AssemblyInfoInputs.cache
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.AssemblyInfo.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.csproj.CoreCompileInputs.cache
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.MvcApplicationPartsAssemblyInfo.cache
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.RazorAssemblyInfo.cache
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.RazorAssemblyInfo.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\staticwebassets\ProyectoBase.App.Presentacion.StaticWebAssets.Manifest.cache
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\staticwebassets\ProyectoBase.App.Presentacion.StaticWebAssets.xml
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\scopedcss\bundle\ProyectoBase.App.Presentacion.styles.css
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.TagHelpers.input.cache
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.TagHelpers.output.cache
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.RazorCoreGenerate.cache
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.RazorTargetAssemblyInfo.cache
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.RazorTargetAssemblyInfo.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.Views.pdb
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ref\ProyectoBase.App.Presentacion.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.pdb
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.genruntimeconfig.cache
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.csproj.CopyComplete
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Dominio.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Dominio.pdb
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\appsettings.Development.json
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\appsettings.json
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Presentacion.exe
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Presentacion.deps.json
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Presentacion.runtimeconfig.json
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Presentacion.runtimeconfig.dev.json
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Presentacion.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ref\ProyectoBase.App.Presentacion.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Presentacion.pdb
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Presentacion.Views.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Presentacion.Views.pdb
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Dominio.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Dominio.pdb
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.csproj.AssemblyReference.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.AssemblyInfoInputs.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.AssemblyInfo.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.csproj.CoreCompileInputs.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.MvcApplicationPartsAssemblyInfo.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.RazorAssemblyInfo.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.RazorAssemblyInfo.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\staticwebassets\ProyectoBase.App.Presentacion.StaticWebAssets.Manifest.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\staticwebassets\ProyectoBase.App.Presentacion.StaticWebAssets.xml
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\scopedcss\bundle\ProyectoBase.App.Presentacion.styles.css
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.TagHelpers.input.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.TagHelpers.output.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.RazorCoreGenerate.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Agencia\List.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.RazorTargetAssemblyInfo.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.RazorTargetAssemblyInfo.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.Views.pdb
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.csproj.CopyComplete
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ref\ProyectoBase.App.Presentacion.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.pdb
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.genruntimeconfig.cache
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Persistencia.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Persistencia.pdb
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Humanizer.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Agencias\Details.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Agencias\List.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Agencias\Edit.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Agencias\Delete.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Empleados\List.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Empleados\Edit.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Empleados\Details.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Empleados\Delete.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Ciudades\List.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Ciudades\Edit.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Ciudades\Details.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Ciudades\Delete.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Generos\List.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Generos\Edit.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Generos\Details.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Generos\Delete.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Estadosciviles\List.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Estadosciviles\Edit.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Estadosciviles\Details.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Estadosciviles\Delete.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\appsettings.Development.json
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\appsettings.json
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Presentacion.exe
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Presentacion.deps.json
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Presentacion.runtimeconfig.json
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Presentacion.runtimeconfig.dev.json
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Presentacion.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ref\ProyectoBase.App.Presentacion.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Presentacion.pdb
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Presentacion.Views.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Presentacion.Views.pdb
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Humanizer.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Dominio.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Persistencia.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Dominio.pdb
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\bin\Debug\net5.0\ProyectoBase.App.Persistencia.pdb
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.csproj.AssemblyReference.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.AssemblyInfoInputs.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.AssemblyInfo.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.csproj.CoreCompileInputs.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.MvcApplicationPartsAssemblyInfo.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.RazorAssemblyInfo.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.RazorAssemblyInfo.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\staticwebassets\ProyectoBase.App.Presentacion.StaticWebAssets.Manifest.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\staticwebassets\ProyectoBase.App.Presentacion.StaticWebAssets.xml
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\scopedcss\bundle\ProyectoBase.App.Presentacion.styles.css
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.TagHelpers.input.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.TagHelpers.output.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.RazorCoreGenerate.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Agencias\Delete.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Agencias\Details.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Agencias\Edit.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Agencias\List.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Ciudades\Delete.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Ciudades\Details.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Ciudades\Edit.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Ciudades\List.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Empleados\Delete.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Empleados\Details.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Empleados\Edit.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Empleados\List.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Estadosciviles\Delete.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Estadosciviles\Details.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Estadosciviles\Edit.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Estadosciviles\List.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Generos\Delete.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Generos\Details.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Generos\Edit.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Generos\List.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.RazorTargetAssemblyInfo.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.RazorTargetAssemblyInfo.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.Views.pdb
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.csproj.CopyComplete
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ref\ProyectoBase.App.Presentacion.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.pdb
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\ProyectoBase.App.Presentacion.genruntimeconfig.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Profesiones\Delete.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Profesiones\Details.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Profesiones\Edit.cshtml.g.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Profesiones\List.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Profesiones\Delete.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Profesiones\Details.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Profesiones\Edit.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Profesiones\List.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Empresas\List.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Empresas\Edit.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Empresas\Details.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Empresas\Delete.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Aspirantes\List.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Aspirantes\Edit.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Aspirantes\Details.cshtml.g.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Aspirantes\Delete.cshtml.g.cs

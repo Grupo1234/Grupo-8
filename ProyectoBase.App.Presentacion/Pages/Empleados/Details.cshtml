@@ -1,0 +1,23 @@
+﻿@page
+@model ProyectoBase.App.Presentacion.Pages.Empleados.DetailsModel
+@{
+}
+<h2>Datos Detallados de Empleado @Model.empleado.nombre @Model.empleado.apellido @Model.empleado.direccion @Model.empleado.telefono</h2>
+<div>
+    ID: @Model.empleado.id
+</div>
+<div>
+    NNOMBRE: @Model.empleado.nombre
+</div>
+<div>
+    APELLIDO: @Model.empleado.apellido
+</div>
+<div>
+    DIRECCION: @Model.empleado.direccion
+</div>
+<div>
+    TELEFONO: @Model.empleado.telefono
+</div>
+
+
+<a asp-page="./List" class="btn-default">Volver a la Lista de empleado.. </a>

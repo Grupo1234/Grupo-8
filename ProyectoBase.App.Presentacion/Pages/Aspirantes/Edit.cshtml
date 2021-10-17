@@ -1,0 +1,47 @@
+﻿@page
+@model ProyectoBase.App.Presentacion.Pages.Aspirantes.EditModel
+
+@{
+    int aspiranteId = Model.aspirante.id;
+}
+
+<h2>Edición de los datos del aspirante @Model.aspirante.nombre @Model.aspirante.apellido @Model.aspirante.edad  @Model.aspirante.profesion @Model.aspirante.estadocivil @Model.aspirante.ciudad</h2>
+<form method="post">
+    <input type="hidden" asp-for="aspirante.id" />  
+      
+    <div class="form-group">
+        <label asp-for="aspirante.nombre"></label>
+        <input asp-for="aspirante.nombre" class="form-control">
+        <span class="text-danger" asp-validation-for="aspirante.nombre"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="aspirante.apellido"></label>
+        <input asp-for="aspirante.apellido" class="form-control">
+        <span class="text-danger" asp-validation-for="aspirante.apellido"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="aspirante.edad"></label>
+        <input asp-for="aspirante.edad" class="form-control">
+        <span class="text-danger" asp-validation-for="aspirante.edad"></span>
+    </div>
+     <div class="form-group">
+        <label asp-for="aspirante.profesion"></label>
+        <input asp-for="aspirante.profesion" class="form-control">
+        <span class="text-danger" asp-validation-for="aspirante.profesion"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="aspirante.estadocivil"></label>
+        <input asp-for="aspirante.estadocivil" class="form-control">
+        <span class="text-danger" asp-validation-for="aspirante.estadocivil"></span>
+    </div>
+
+ <div class="form-group">
+        <label asp-for="aspirante.ciudad"></label>
+        <input asp-for="aspirante.ciudad" class="form-control">
+        <span class="text-danger" asp-validation-for="aspirante.ciudad"></span>
+    </div>
+    
+    <button type="submit" class="btn btn-success">Grabar</button>    
+</form>
+
+<a asp-page="./List" class="btn-default">Regresar a la lista de aspirantes </a>

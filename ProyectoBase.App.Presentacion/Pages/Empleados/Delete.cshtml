@@ -1,0 +1,38 @@
+﻿@page
+@model ProyectoBase.App.Presentacion.Pages.Empleados.DeleteModel
+
+@{
+    int empleadoId = Model.empleado.id;
+}
+
+<h2>Edición de los datos del empleado @Model.empleado.nombre @Model.empleado.apellido @Model.empleado.direccion @Model.empleado.telefono</h2>
+<form method="post">
+    <input type="hidden" asp-for="empleado.id" />    
+    
+    <div class="form-group">
+        <label asp-for="empleado.nombre"></label>
+        <input asp-for="empleado.nombre" class="form-control" disabled>
+        <span class="text-danger" asp-validation-for="empleado.nombre"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="empleado.apellido"></label>
+        <input asp-for="empleado.apellido" class="form-control" disabled>
+        <span class="text-danger" asp-validation-for="empleado.apellido"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="empleado.direccion"></label>
+        <input asp-for="empleado.direccion" class="form-control" disabled>
+        <span class="text-danger" asp-validation-for="empleado.direccion"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="empleado.telefono"></label>
+        <input asp-for="empleado.telefono" class="form-control" disabled>
+        <span class="text-danger" asp-validation-for="empleado.telefono"></span>
+    </div>
+
+
+
+    <button type="submit" class="btn btn-danger">ELIMINAR</button>    
+</form>
+
+<a asp-page="./List" class="btn-default">Regresar a la lista de empleados </a>

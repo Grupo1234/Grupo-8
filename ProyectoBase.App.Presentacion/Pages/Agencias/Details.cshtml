@@ -1,0 +1,19 @@
+﻿@page
+@model ProyectoBase.App.Presentacion.Pages.Agencias.DetailsModel
+@{
+}
+<h2>Datos Detallados de Agencia @Model.agencia.nit @Model.agencia.nombre @Model.agencia.direccion</h2>
+<div>
+    ID: @Model.agencia.id
+</div>
+<div>
+    NIT: @Model.agencia.nit
+</div>
+<div>
+    NOMBRES: @Model.agencia.nombre
+</div>
+<div>
+    DIRECCION: @Model.agencia.direccion
+</div>
+
+<a asp-page="./List" class="btn-default">Volver a la Lista de agencia.. </a>

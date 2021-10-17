@@ -1,0 +1,21 @@
+﻿@page
+@model ProyectoBase.App.Presentacion.Pages.Profesiones.EditModel
+
+@{
+    int profesionId = Model.profesion.id;
+}
+
+<h2>Edición de los datos del profesion @Model.profesion.nombre   </h2>
+<form method="post">
+    <input type="hidden" asp-for="profesion.id" />  
+      
+        <div class="form-group">
+        <label asp-for="profesion.nombre"></label>
+        <input asp-for="profesion.nombre" class="form-control">
+        <span class="text-danger" asp-validation-for="profesion.nombre"></span>
+    </div>
+        
+    <button type="submit" class="btn btn-success">Grabar</button>    
+</form>
+
+<a asp-page="./List" class="btn-default">Regresar a la lista de profesiones </a>

@@ -1,0 +1,47 @@
+﻿@page
+@model ProyectoBase.App.Presentacion.Pages.Ciudades.ListModel
+@{
+   var searchString = Model.searchString; 
+}
+<h1>Listado de Ciudades</h1>
+<p>
+    @Html.ActionLink("Create New", "./List")
+</p>
+
+@using (Html.BeginForm())
+{
+    <p>
+        Buscar x Nombre: @Html.TextBox("SearchString")  
+        <input type="submit" value="Search" />
+    </p>
+}
+
+<table class="table">
+    @foreach (var ciudad in Model.ciudades)
+    {
+        <tr>
+            <td>@ciudad.id</td>
+            
+            <td>@ciudad.nombre</td>
+            
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./Details" asp-route-ciudadId="@ciudad.id">
+                    Detalle</a>
+            </td>
+
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./Edit" asp-route-ciudadId="@ciudad.id">
+                    Editar
+                </a>
+            </td> 
+
+            <td>
+                <a class="btn btn-danger table-btn" asp-page="./Delete" asp-route-ciudadId="@ciudad.id">
+                    Eliminar
+                </a>
+            </td> 
+        </tr>
+    }
+</table>
+
+<a asp-page=".\Edit" class="btn btn-primary">Adicionar una ciudad</a>

@@ -1,0 +1,21 @@
+﻿@page
+@model ProyectoBase.App.Presentacion.Pages.Estadosciviles.DeleteModel
+
+@{
+    int estadocivilId = Model.estadocivil.id;
+}
+
+<h2>Edición de los datos del estadocivil @Model.estadocivil.nombre</h2>
+<form method="post">
+    <input type="hidden" asp-for="estadocivil.id" />    
+    
+    <div class="form-group">
+        <label asp-for="estadocivil.nombre"></label>
+        <input asp-for="estadocivil.nombre" class="form-control" disabled>
+        <span class="text-danger" asp-validation-for="estadocivil.nombre"></span>
+    </div>
+    
+    <button type="submit" class="btn btn-danger">ELIMINAR</button>    
+</form>
+
+<a asp-page="./List" class="btn-default">Regresar a la lista de estadosciviles </a>

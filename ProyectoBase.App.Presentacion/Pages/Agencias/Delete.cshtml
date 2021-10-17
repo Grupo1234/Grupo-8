@@ -1,0 +1,31 @@
+﻿@page
+@model ProyectoBase.App.Presentacion.Pages.Agencias.DeleteModel
+
+@{
+    int agenciaId = Model.agencia.id;
+}
+
+<h2>Edición de los datos del agencia @Model.agencia.nombre @Model.agencia.nit @Model.agencia.direccion</h2>
+<form method="post">
+    <input type="hidden" asp-for="agencia.id" />    
+    
+    <div class="form-group">
+        <label asp-for="agencia.nit"></label>
+        <input asp-for="agencia.nit" class="form-control" disabled>
+        <span class="text-danger" asp-validation-for="agencia.nit"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="agencia.nombre"></label>
+        <input asp-for="agencia.nombre" class="form-control" disabled>
+        <span class="text-danger" asp-validation-for="agencia.nombre"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="agencia.direccion"></label>
+        <input asp-for="agencia.direccion" class="form-control" disabled>
+        <span class="text-danger" asp-validation-for="agencia.direccion"></span>
+    </div>
+
+    <button type="submit" class="btn btn-danger">ELIMINAR</button>    
+</form>
+
+<a asp-page="./List" class="btn-default">Regresar a la lista de agencias </a>

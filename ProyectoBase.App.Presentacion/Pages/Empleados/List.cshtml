@@ -1,0 +1,48 @@
+﻿@page
+@model ProyectoBase.App.Presentacion.Pages.Empleados.ListModel
+@{
+   var searchString = Model.searchString; 
+}
+<h1>Listado de Empleados</h1>
+<p>
+    @Html.ActionLink("Create New", "./List")
+</p>
+
+@using (Html.BeginForm())
+{
+    <p>
+        Buscar x Nombre: @Html.TextBox("SearchString")  
+        <input type="submit" value="Search" />
+    </p>
+}
+
+<table class="table">
+    @foreach (var empleado in Model.empleados)
+    {
+        <tr>
+            <td>@empleado.id</td>
+            <td>@empleado.nombre</td>
+            <td>@empleado.apellido</td>
+            <td>@empleado.direccion</td>
+            <td>@empleado.telefono</td>
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./Details" asp-route-empleadoId="@empleado.id">
+                    Detalle</a>
+            </td>
+
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./Edit" asp-route-empleadoId="@empleado.id">
+                    Editar
+                </a>
+            </td> 
+
+            <td>
+                <a class="btn btn-danger table-btn" asp-page="./Delete" asp-route-empleadoId="@empleado.id">
+                    Eliminar
+                </a>
+            </td> 
+        </tr>
+    }
+</table>
+
+<a asp-page=".\Edit" class="btn btn-primary">Adicionar una empleado</a>

@@ -1,0 +1,27 @@
+﻿@page
+@model ProyectoBase.App.Presentacion.Pages.Aspirantes.DetailsModel
+@{
+}
+<h2>Datos Detallados de Aspirante @Model.aspirante.nombre @Model.aspirante.apellido @Model.aspirante.edad @Model.aspirante.profesion @Model.aspirante.estadocivil @Model.aspirante.ciudad</h2>
+<div>
+    ID: @Model.aspirante.id
+</div>
+<div>
+    NOMBRE: @Model.aspirante.nombre
+</div>
+<div>
+    APELLIDO: @Model.aspirante.apellido
+</div>
+<div>
+    EDAD: @Model.aspirante.edad
+</div>
+<div>
+    PROFESION: @Model.aspirante.profesion
+</div>
+<div>
+    ESTADO: @Model.aspirante.estadocivil
+</div>
+<div>
+    CIUDAD: @Model.aspirante.ciudad
+</div>
+<a asp-page="./List" class="btn-default">Volver a la Lista de aspirante.. </a>

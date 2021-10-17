@@ -1,0 +1,15 @@
+﻿@page
+@model ProyectoBase.App.Presentacion.Pages.Profesiones.DetailsModel
+@{
+}
+<h2>Datos Detallados de Profesion @Model.profesion.nombre </h2>
+<div>
+    ID: @Model.profesion.id
+</div>
+
+<div>
+    NOMBRES: @Model.profesion.nombre
+</div>
+
+
+<a asp-page="./List" class="btn-default">Volver a la Lista de profesion.. </a>

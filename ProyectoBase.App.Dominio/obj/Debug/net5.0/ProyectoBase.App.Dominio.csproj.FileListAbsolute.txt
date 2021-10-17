@@ -1,0 +1,36 @@
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Dominio\bin\Debug\net5.0\ProyectoBase.App.Dominio.deps.json
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Dominio\bin\Debug\net5.0\ProyectoBase.App.Dominio.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Dominio\bin\Debug\net5.0\ref\ProyectoBase.App.Dominio.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Dominio\bin\Debug\net5.0\ProyectoBase.App.Dominio.pdb
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Dominio\obj\Debug\net5.0\ProyectoBase.App.Dominio.csproj.AssemblyReference.cache
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Dominio\obj\Debug\net5.0\ProyectoBase.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Dominio\obj\Debug\net5.0\ProyectoBase.App.Dominio.AssemblyInfoInputs.cache
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Dominio\obj\Debug\net5.0\ProyectoBase.App.Dominio.AssemblyInfo.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Dominio\obj\Debug\net5.0\ProyectoBase.App.Dominio.csproj.CoreCompileInputs.cache
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Dominio\obj\Debug\net5.0\ProyectoBase.App.Dominio.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Dominio\obj\Debug\net5.0\ref\ProyectoBase.App.Dominio.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Dominio\obj\Debug\net5.0\ProyectoBase.App.Dominio.pdb
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Dominio\bin\Debug\net5.0\ProyectoBase.App.Dominio.deps.json
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Dominio\bin\Debug\net5.0\ProyectoBase.App.Dominio.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Dominio\bin\Debug\net5.0\ref\ProyectoBase.App.Dominio.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Dominio\bin\Debug\net5.0\ProyectoBase.App.Dominio.pdb
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Dominio\obj\Debug\net5.0\ProyectoBase.App.Dominio.csproj.AssemblyReference.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Dominio\obj\Debug\net5.0\ProyectoBase.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Dominio\obj\Debug\net5.0\ProyectoBase.App.Dominio.AssemblyInfoInputs.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Dominio\obj\Debug\net5.0\ProyectoBase.App.Dominio.AssemblyInfo.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Dominio\obj\Debug\net5.0\ProyectoBase.App.Dominio.csproj.CoreCompileInputs.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Dominio\obj\Debug\net5.0\ProyectoBase.App.Dominio.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Dominio\obj\Debug\net5.0\ref\ProyectoBase.App.Dominio.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3 09-10-2021\ProyectoBase.App\ProyectoBase.App.Dominio\obj\Debug\net5.0\ProyectoBase.App.Dominio.pdb
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Dominio\bin\Debug\net5.0\ProyectoBase.App.Dominio.deps.json
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Dominio\bin\Debug\net5.0\ProyectoBase.App.Dominio.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Dominio\bin\Debug\net5.0\ref\ProyectoBase.App.Dominio.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Dominio\bin\Debug\net5.0\ProyectoBase.App.Dominio.pdb
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Dominio\obj\Debug\net5.0\ProyectoBase.App.Dominio.csproj.AssemblyReference.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Dominio\obj\Debug\net5.0\ProyectoBase.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Dominio\obj\Debug\net5.0\ProyectoBase.App.Dominio.AssemblyInfoInputs.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Dominio\obj\Debug\net5.0\ProyectoBase.App.Dominio.AssemblyInfo.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Dominio\obj\Debug\net5.0\ProyectoBase.App.Dominio.csproj.CoreCompileInputs.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Dominio\obj\Debug\net5.0\ProyectoBase.App.Dominio.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Dominio\obj\Debug\net5.0\ref\ProyectoBase.App.Dominio.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Dominio\obj\Debug\net5.0\ProyectoBase.App.Dominio.pdb

@@ -1,0 +1,21 @@
+﻿@page
+@model ProyectoBase.App.Presentacion.Pages.Generos.EditModel
+
+@{
+    int generoId = Model.genero.id;
+}
+
+<h2>Edición de los datos del genero @Model.genero.nombre   </h2>
+<form method="post">
+    <input type="hidden" asp-for="genero.id" />  
+      
+        <div class="form-group">
+        <label asp-for="genero.nombre"></label>
+        <input asp-for="genero.nombre" class="form-control">
+        <span class="text-danger" asp-validation-for="genero.nombre"></span>
+    </div>
+        
+    <button type="submit" class="btn btn-success">Grabar</button>    
+</form>
+
+<a asp-page="./List" class="btn-default">Regresar a la lista de generos </a>

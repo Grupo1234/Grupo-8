@@ -1,0 +1,24 @@
+﻿@page
+@model ProyectoBase.App.Presentacion.Pages.Empresas.DetailsModel
+@{
+}
+<h2>Datos Detallados de Empresa @Model.empresa.nit @Model.empresa.nombre @Model.empresa.telefono @Model.empresa.direccion @Model.empresa.ciudad</h2>
+<div>
+    ID: @Model.empresa.id
+</div>
+<div>
+    NIT: @Model.empresa.nit
+</div>
+<div>
+    NOMBRES: @Model.empresa.nombre
+</div>
+<div>
+    DIRECCION: @Model.empresa.direccion
+</div>
+<div>
+    TELEFONO: @Model.empresa.telefono
+</div>
+<div>
+    CIUDAD: @Model.empresa.ciudad
+</div>
+<a asp-page="./List" class="btn-default">Volver a la Lista de empresa.. </a>

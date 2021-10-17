@@ -1,0 +1,15 @@
+﻿@page
+@model ProyectoBase.App.Presentacion.Pages.Ciudades.DetailsModel
+@{
+}
+<h2>Datos Detallados de Ciudad @Model.ciudad.nombre </h2>
+<div>
+    ID: @Model.ciudad.id
+</div>
+
+<div>
+    NOMBRES: @Model.ciudad.nombre
+</div>
+
+
+<a asp-page="./List" class="btn-default">Volver a la Lista de ciudad.. </a>

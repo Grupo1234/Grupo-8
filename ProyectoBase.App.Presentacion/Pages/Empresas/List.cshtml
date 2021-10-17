@@ -1,0 +1,52 @@
+﻿@page
+@model ProyectoBase.App.Presentacion.Pages.Empresas.ListModel
+@{
+   var searchString = Model.searchString; 
+}
+<h1>Listado de Empresas</h1>
+<p>
+    @Html.ActionLink("Create New", "./List")
+</p>
+
+@using (Html.BeginForm())
+{
+    <p>
+        Buscar x Nombre: @Html.TextBox("SearchString")  
+        <input type="submit" value="Search" />
+    </p>
+}
+
+<table class="table">
+    @foreach (var empresa in Model.empresas)
+    {
+        <tr>
+            <td>@empresa.id</td>
+            <td>@empresa.nit</td>
+            <td>@empresa.nombre</td>
+            <td>@empresa.telefono</td>
+            <td>@empresa.direccion</td>
+            <td>@empresa.ciudad</td>
+
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./Details" asp-route-empresaId="@empresa.id">
+                    Detalle</a>
+            </td>
+
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./Edit" asp-route-empresaId="@empresa.id">
+                    Editar
+                </a>
+            </td> 
+
+            <td>
+                <a class="btn btn-danger table-btn" asp-page="./Delete" asp-route-empresaId="@empresa.id">
+                    Eliminar
+                </a>
+            </td> 
+        </tr>
+    }
+</table>
+
+<a asp-page=".\Edit" class="btn btn-primary">Adicionar una empresa</a>
+
+

@@ -1,0 +1,15 @@
+﻿@page
+@model ProyectoBase.App.Presentacion.Pages.Generos.DetailsModel
+@{
+}
+<h2>Datos Detallados de Genero @Model.genero.nombre </h2>
+<div>
+    ID: @Model.genero.id
+</div>
+
+<div>
+    NOMBRES: @Model.genero.nombre
+</div>
+
+
+<a asp-page="./List" class="btn-default">Volver a la Lista de genero.. </a>

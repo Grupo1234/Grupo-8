@@ -1,0 +1,15 @@
+﻿@page
+@model ProyectoBase.App.Presentacion.Pages.Estadosciviles.DetailsModel
+@{
+}
+<h2>Datos Detallados de Estadocivil @Model.estadocivil.nombre </h2>
+<div>
+    ID: @Model.estadocivil.id
+</div>
+
+<div>
+    NOMBRES: @Model.estadocivil.nombre
+</div>
+
+
+<a asp-page="./List" class="btn-default">Volver a la Lista de estadocivil.. </a>

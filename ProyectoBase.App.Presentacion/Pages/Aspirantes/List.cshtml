@@ -1,0 +1,55 @@
+﻿@page
+@model ProyectoBase.App.Presentacion.Pages.Aspirantes.ListModel
+@{
+   var searchString = Model.searchString; 
+}
+<h1>Listado de Aspirantes</h1>
+<p>
+    @Html.ActionLink("Create New", "./List")
+</p>
+
+@using (Html.BeginForm())
+{
+    <p>
+        Buscar x Nombre: @Html.TextBox("SearchString")  
+        <input type="submit" value="Search" />
+    </p>
+}
+
+<table class="table">
+    @foreach (var aspirante in Model.aspirantes)
+    {
+        <tr>
+            <td>@aspirante.id</td>
+             <td>@aspirante.nombre</td>
+            <td>@aspirante.apellido</td>
+            <td>@aspirante.edad</td>
+            <td>@aspirante.profesion</td>
+            <td>@aspirante.estadocivil</td>
+            <td>@aspirante.ciudad</td>
+
+            
+
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./Details" asp-route-aspiranteId="@aspirante.id">
+                    Detalle</a>
+            </td>
+
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./Edit" asp-route-aspiranteId="@aspirante.id">
+                    Editar
+                </a>
+            </td> 
+
+            <td>
+                <a class="btn btn-danger table-btn" asp-page="./Delete" asp-route-aspiranteId="@aspirante.id">
+                    Eliminar
+                </a>
+            </td> 
+        </tr>
+    }
+</table>
+
+<a asp-page=".\Edit" class="btn btn-primary">Adicionar una aspirante</a>
+
+

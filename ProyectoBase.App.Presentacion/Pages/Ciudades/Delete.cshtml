@@ -1,0 +1,21 @@
+﻿@page
+@model ProyectoBase.App.Presentacion.Pages.Ciudades.DeleteModel
+
+@{
+    int ciudadId = Model.ciudad.id;
+}
+
+<h2>Edición de los datos del ciudad @Model.ciudad.nombre</h2>
+<form method="post">
+    <input type="hidden" asp-for="ciudad.id" />    
+    
+    <div class="form-group">
+        <label asp-for="ciudad.nombre"></label>
+        <input asp-for="ciudad.nombre" class="form-control" disabled>
+        <span class="text-danger" asp-validation-for="ciudad.nombre"></span>
+    </div>
+    
+    <button type="submit" class="btn btn-danger">ELIMINAR</button>    
+</form>
+
+<a asp-page="./List" class="btn-default">Regresar a la lista de ciudades </a>

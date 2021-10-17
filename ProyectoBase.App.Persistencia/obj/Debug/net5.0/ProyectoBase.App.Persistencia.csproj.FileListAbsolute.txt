@@ -1,0 +1,34 @@
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\bin\Debug\net5.0\ProyectoBase.App.Persistencia.deps.json
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\bin\Debug\net5.0\ProyectoBase.App.Persistencia.runtimeconfig.json
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\bin\Debug\net5.0\ProyectoBase.App.Persistencia.runtimeconfig.dev.json
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\bin\Debug\net5.0\ProyectoBase.App.Persistencia.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\bin\Debug\net5.0\ref\ProyectoBase.App.Persistencia.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\bin\Debug\net5.0\ProyectoBase.App.Persistencia.pdb
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\obj\Debug\net5.0\ProyectoBase.App.Persistencia.csproj.AssemblyReference.cache
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\obj\Debug\net5.0\ProyectoBase.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\obj\Debug\net5.0\ProyectoBase.App.Persistencia.AssemblyInfoInputs.cache
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\obj\Debug\net5.0\ProyectoBase.App.Persistencia.AssemblyInfo.cs
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\obj\Debug\net5.0\ProyectoBase.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\obj\Debug\net5.0\ProyectoBase.App.Persistencia.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\obj\Debug\net5.0\ref\ProyectoBase.App.Persistencia.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\obj\Debug\net5.0\ProyectoBase.App.Persistencia.pdb
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\obj\Debug\net5.0\ProyectoBase.App.Persistencia.genruntimeconfig.cache
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\bin\Debug\net5.0\ProyectoBase.App.Dominio.dll
+C:\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\bin\Debug\net5.0\ProyectoBase.App.Dominio.pdb
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\bin\Debug\net5.0\ProyectoBase.App.Persistencia.deps.json
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\bin\Debug\net5.0\ProyectoBase.App.Persistencia.runtimeconfig.json
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\bin\Debug\net5.0\ProyectoBase.App.Persistencia.runtimeconfig.dev.json
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\bin\Debug\net5.0\ProyectoBase.App.Persistencia.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\bin\Debug\net5.0\ref\ProyectoBase.App.Persistencia.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\bin\Debug\net5.0\ProyectoBase.App.Persistencia.pdb
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\bin\Debug\net5.0\ProyectoBase.App.Dominio.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\bin\Debug\net5.0\ProyectoBase.App.Dominio.pdb
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\obj\Debug\net5.0\ProyectoBase.App.Persistencia.csproj.AssemblyReference.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\obj\Debug\net5.0\ProyectoBase.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\obj\Debug\net5.0\ProyectoBase.App.Persistencia.AssemblyInfoInputs.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\obj\Debug\net5.0\ProyectoBase.App.Persistencia.AssemblyInfo.cs
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\obj\Debug\net5.0\ProyectoBase.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\obj\Debug\net5.0\ProyectoBase.App.Persistencia.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\obj\Debug\net5.0\ref\ProyectoBase.App.Persistencia.dll
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\obj\Debug\net5.0\ProyectoBase.App.Persistencia.pdb
+D:\Wiliam\Escritorio\Ciclo 3 Grupo 8\Proyecto\proyectos_ciclo3\ProyectoBase.App\ProyectoBase.App.Persistencia\obj\Debug\net5.0\ProyectoBase.App.Persistencia.genruntimeconfig.cache
